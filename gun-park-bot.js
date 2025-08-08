@@ -759,7 +759,7 @@ async function generateProfileCard(user) {
     // Launch puppeteer with system chromium
     const browser = await puppeteer.launch({
       headless: 'new',
-      executablePath: '/usr/bin/chromium',
+      executablePath: process.env.CHROME_BIN || '/nix/store/*/bin/chromium',
       args: [
         '--no-sandbox',
         '--disable-setuid-sandbox',
