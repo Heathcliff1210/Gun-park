@@ -1,0 +1,31 @@
+{
+  "6419892672": {
+    "telegramId": "6419892672",
+    "username": "Kageo",
+    "profilePhotoUrl": "https://api.telegram.org/file/bot7324266903:AAHifYM9GXHoFS6sVSZrsRxwOoEENOOxw98/photos/file_14.jpg",
+    "rank": "A",
+    "bestScore": 59,
+    "averageScore": 59,
+    "minScore": 59,
+    "errorRate": 1.28,
+    "progression": 0,
+    "totalTests": 1,
+    "createdAt": "2025-08-09T23:55:15.710Z",
+    "updatedAt": "2025-08-09T23:55:50.024Z",
+    "profilePhoto": "https://api.telegram.org/file/bot7324266903:AAHifYM9GXHoFS6sVSZrsRxwOoEENOOxw98/photos/file_14.jpg"
+  },
+  "5826682776": {
+    "telegramId": "5826682776",
+    "username": "Naomie Othmann",
+    "profilePhotoUrl": "https://api.telegram.org/file/bot7324266903:AAHifYM9GXHoFS6sVSZrsRxwOoEENOOxw98/photos/file_16.jpg",
+    "rank": "D",
+    "bestScore": 0,
+    "averageScore": 0,
+    "minScore": 0,
+    "errorRate": 0,
+    "progression": 0,
+    "totalTests": 0,
+    "createdAt": "2025-08-10T00:16:40.165Z",
+    "updatedAt": "2025-08-10T00:16:40.165Z"
+  }
+}
